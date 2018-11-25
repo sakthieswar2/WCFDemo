@@ -1,0 +1,6 @@
+C:\Sakthi\WCF\HelloService\HelloService\bin\HelloService.dll.config
+C:\Sakthi\WCF\HelloService\HelloService\bin\HelloService.dll
+C:\Sakthi\WCF\HelloService\HelloService\bin\HelloService.pdb
+C:\Sakthi\WCF\HelloService\HelloService\obj\Debug\HelloService.csprojResolveAssemblyReference.cache
+C:\Sakthi\WCF\HelloService\HelloService\obj\Debug\HelloService.dll
+C:\Sakthi\WCF\HelloService\HelloService\obj\Debug\HelloService.pdb

@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div>
+    <table>
+        
+        <tr>
+            <td><input type="button" value="Get Greeting" onclick="location.href='@Url.Action("Greeting", "Home")'" /></td>
+            <td><input type="button" value="Get Program" onclick="location.href='@Url.Action("Program", "Home")'" /></td>
+        </tr>
+    </table>
+    <div>
+        @ViewBag.Message
+    </div>
+</div>
